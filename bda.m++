@@ -1,0 +1,23 @@
+#include <mpp.h>
+#include <alwane.h>
+
+ra9m bda(){
+
+	war9a w;
+	ra9m a ;
+
+	w = WALOU;
+
+	w = w7al("config.txt",1);
+
+	ila (w == WALOU)
+
+		ktab("Config.txt introuvable\n");
+
+	oula 
+
+		ktab("config.txt existe \n");
+
+
+	rja3 0 ;
+}
