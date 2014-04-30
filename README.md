@@ -1,7 +1,7 @@
 kmpp
 ====
 
-MPP is a C-based programming language that allows you to code more easily in Darija.
+KMPP is a tinyC-based compiler that lets you compile your m++ files.
 
 
 Usage
